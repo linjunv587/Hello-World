@@ -1,2 +1,4 @@
 # Hello-World
-Just another repository
+
+Hellow-world
+Im a new Program Trainee
